@@ -16,8 +16,7 @@ This project performs basic bioinformatics analysis of the **katG gene** from *M
 
 ## 📁 Files
 - `katG.fasta` – Input gene sequence in FASTA format
-- `katG_analysis.py` – Script to analyze the sequence
-- `results.txt` – Output from the analysis
+- `katG_analysis.ipynb` – Script to analyze the sequence
 
 ## 🚀 How to Run
 ```bash
